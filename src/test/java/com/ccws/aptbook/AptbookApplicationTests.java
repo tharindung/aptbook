@@ -17,6 +17,8 @@ class AptbookApplicationTests {
 		logger.info("Test executing....");
 
 		assertEquals(true, true);
+
+		logger.info("Test execution completed....");
 	}
 
 }
